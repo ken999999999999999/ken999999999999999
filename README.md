@@ -10,7 +10,8 @@ With 7 years of coding experience and almost 3 years in the IT industry, I initi
 *   🖥️  See my portfolio at [My-Vue-Map](http://ken999999999999999.github.io/my-vue-map/)
 *   ✉️  You can contact me at [kelearning2021@outlook.com](mailto:kelearning2021@outlook.com)
 *   🧠  I'm learning Vue.js
-*   🤝  I'm open to collaborating on any interesting projects### Skills 
+*   🤝  I'm open to collaborating on any interesting projects
+  ### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
