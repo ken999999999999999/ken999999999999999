@@ -9,7 +9,6 @@ With 7 years of coding experience and almost 3 years in the IT industry, I initi
 *   🌍  I'm based in Toronto
 *   🖥️  See my portfolio at [My-Vue-Map](http://ken999999999999999.github.io/my-vue-map/)
 *   ✉️  You can contact me at [kelearning2021@outlook.com](mailto:kelearning2021@outlook.com)
-*   🧠  I'm learning Vue.js
 *   🤝  I'm open to collaborating on any interesting projects
   ### Skills 
 <p align="left">
