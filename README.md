@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-With 7 years of coding experience and almost 3 years in the IT industry, I initially started my career with React. However, my passion for backend development led me to expand my expertise in .NET Core and Azure. This shift allowed me to become a versatile full-stack developer, equipped with the skills to tackle various projects. I am excited to continue growing and applying my knowledge to create impactful solutions.
+With 7 years of coding experience and over 3 years in the IT industry, I initially started my career with React. However, my passion for backend development led me to expand my expertise in .NET Core and Azure. This shift allowed me to become a versatile full-stack developer, equipped with the skills to tackle various projects. I am excited to continue growing and applying my knowledge to create impactful solutions.
 
 *   🌍  I'm based in Toronto
 *   🖥️  See my portfolio at [My-Vue-Map](http://ken999999999999999.github.io/my-vue-map/)
